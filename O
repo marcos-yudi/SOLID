@@ -1,0 +1,4 @@
+Open/Closed Principle (OCP) Princípio Aberto e Fechado:
+
+O segundo princípio de boas práticas de programação indica o código legado (código principal) ser alterado o mínimo possível. As novas aplicações devem ser de fácil adição e integração, mas serem tratadas como extensões.
+Simplificando, o desenvolvimento e manutenção do programa deve ser "aberto" a novas funcionalidades e "fechado" a alterações.
