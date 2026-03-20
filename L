@@ -1,0 +1,3 @@
+Liskov Substitution Principle (LSP) Princípio de Substituição de Liskov:
+
+Este princípio dita que as subclasses (classes filhas) devem estar sempre de acordo com a classe pai, de maneira que o sistema não corrompa ou quebre.
