@@ -1,0 +1,4 @@
+Integration Dependency Principle (IDP) Princípio de Dependência de Integração:
+
+Este princípio dita que as classes que são implementadas a interface devem conter apenas o necessário para o funcionamento.
+Se uma interface possui implementos demais e suas classes que a implementam não utilizam todos os seus recursos, então a interface deve ser subdivida.
