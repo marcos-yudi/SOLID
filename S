@@ -1,0 +1,4 @@
+Single Responsibility Principle (SRP) Princípio de Responsabilidade Única
+
+Significa que cada função ou classe deve performar o mínimo número de tarefas possível, caso seja necessário adicionar outra funcionalidade que não tenha necessidade de ser na mesma função, uma nova classe ou função deve ser criada.
+Desta forma, o código se divide em blocos bem organizados e específicos, sua legibilidade aumenta, pois sabemos o que cada função ou classe fazem. Outro detalhe importante é que aumenta a manutenibilidade, pois se alguma funcionalidade apresenta falha, é mais fácil de localizá-la e alterá-la.
