@@ -1,0 +1,4 @@
+Dependency Inversion Principle (DIP) Princípio de Inversão de Dependência
+
+Módulos de alto nível não devem depender de módulos de menor importância e especificidade.O código principal é soberano e deve dispor de "contratos" para que APIs, softwares secundários façam conexáo com ele através de abstrações. 
+As especificidades devem se impor e se ajustar com o código principal, ao invés de o código principal deve ser alterado para se encaixar em especificidades.
